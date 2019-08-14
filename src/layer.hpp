@@ -10,6 +10,8 @@
 #include "./layer_factory.hpp"
 #include "./proto/caffe.pb.h"
 
+#include <math.h>
+
 namespace caffe {
 
 /**
